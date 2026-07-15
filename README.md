@@ -39,6 +39,7 @@ Techniques implemented:
 
 ## Project structure
 
+```text
 PrivacyShield/
 ├── cloaking.py              # DBSCAN & Voronoi-based cloaking
 ├── differential_privacy.py  # Adaptive DP noise + robustness evaluation
@@ -50,6 +51,8 @@ PrivacyShield/
 ├── demo.py                       # End-to-end example usage
 ├── requirements.txt
 └── README.md
+```
+
 
 ## Setup
 
